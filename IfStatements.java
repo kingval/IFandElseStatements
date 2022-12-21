@@ -4,11 +4,12 @@ public class IfStatements {
 
     public static void main(String[] args) {
 
-        int i = 16;  // change value to above 19 to see second outcome.
-        if(i<18){
-            System.out.println("I is Small");
+        int i = 21;  // change value to above 19 to see second outcome.
+        if (i < 22) {
+            System.out.println("Bigger than 18");
         }
-        System.out.println("false");
-    }
+                System.out.println("Done");
 
-}
+            }
+
+        }
